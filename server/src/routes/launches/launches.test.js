@@ -26,7 +26,7 @@ describe("Launches API", () => {
     const dataWithoutLaunchDate = {
       mission: "USS Inc",
       rocket: "NCC 1701",
-      target: "Kepler-1652 b",
+      target: "Kepler-296 A e",
     };
 
     const completeLaunchData = {
